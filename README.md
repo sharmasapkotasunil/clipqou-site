@@ -44,7 +44,7 @@ Clipqou is not directed at children under the age of 13. We do not knowingly col
 
 ---
 
-## Changes to This Policy
+## Changes to This Policy 
 
 We may update this Privacy Policy from time to time. Changes will be reflected by updating the date at the top of this page. Continued use of the app after any changes constitutes acceptance of the updated policy.
 
